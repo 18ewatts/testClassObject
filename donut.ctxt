@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=donut()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ donut\n
+comment1.params=
+comment1.target=java.lang.String\ getFlavour()
+comment2.params=newFlavour
+comment2.target=void\ setFlavour(java.lang.String)
+numComments=3
